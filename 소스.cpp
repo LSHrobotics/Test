@@ -21,4 +21,6 @@ void main()
 	printf("reset과는 달리 내용이 사라지지 않음");
 
 	printf("revert과는 달리 내용이 사라지지 않음");
+
+	printf("3");
 }
