@@ -16,4 +16,7 @@ void main()
 	printf("충돌에 겁내면안됩니다");
 
 	printf("오늘 날씨 안좋음");
+
+	printf("내일 날씨 안좋음");
+	printf("어제 날씨 안좋음");
 }
