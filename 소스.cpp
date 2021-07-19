@@ -23,6 +23,4 @@ void main()
 	printf("revert과는 달리 내용이 사라지지 않음");
 
 	printf("1");
-
-	printf("2");
 }
