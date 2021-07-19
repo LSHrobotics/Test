@@ -8,5 +8,5 @@ void main()
 	printf("test\n");
 	//추가작업시작
 	printf("test2\n");
-	
+	printf("test3\n");
 }
