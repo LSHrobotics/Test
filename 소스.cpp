@@ -14,4 +14,6 @@ void main()
 	printf("test6\n"); //?덈줈??異붽?
 
 	printf("충돌에 겁내면안됩니다");
+
+	printf("오늘 날씨 안좋음");
 }
