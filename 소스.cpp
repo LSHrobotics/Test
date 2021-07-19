@@ -19,4 +19,6 @@ void main()
 
 	//브랜치로 되돌리기
 	printf("reset과는 달리 내용이 사라지지 않음");
+
+	printf("revert과는 달리 내용이 사라지지 않음");
 }
