@@ -6,10 +6,12 @@ void main()
 	a = 1;
 	printf("%d", a);
 	printf("test\n");
-	//ì¶”ê°€ìž‘ì—…ì‹œìž‘
+	//ì¶”ê??‘ì—…?œìž‘
 	printf("test2\n");
 	printf("test3\n");
 
-	printf("test5\n"); //ìƒˆë¡œìš´ ì¶”ê°€
-	printf("test6\n"); //ìƒˆë¡œìš´ ì¶”ê°€
+	printf("test5\n"); //?ˆë¡œ??ì¶”ê?
+	printf("test6\n"); //?ˆë¡œ??ì¶”ê?
+
+	printf("Ãæµ¹¿¡ °Ì³»¸é¾ÈµË´Ï´Ù");
 }
