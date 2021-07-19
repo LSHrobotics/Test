@@ -6,5 +6,7 @@ void main()
 	a = 1;
 	printf("%d", a);
 	printf("test\n");
+	//추가작업시작
+	printf("test2\n");
 	
 }
