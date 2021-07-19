@@ -6,9 +6,10 @@ void main()
 	a = 1;
 	printf("%d", a);
 	printf("test\n");
-	//Ãß°¡ÀÛ¾÷½ÃÀÛ
+	//ì¶”ê°€ìž‘ì—…ì‹œìž‘
 	printf("test2\n");
 	printf("test3\n");
 
-	printf("test5\n"); //»õ·Î¿î Ãß°¡
+	printf("test5\n"); //ìƒˆë¡œìš´ ì¶”ê°€
+	printf("test6\n"); //ìƒˆë¡œìš´ ì¶”ê°€
 }
