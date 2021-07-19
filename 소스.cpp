@@ -9,4 +9,6 @@ void main()
 	//추가작업시작
 	printf("test2\n");
 	printf("test3\n");
+
+	printf("test5\n"); //새로운 추가
 }
