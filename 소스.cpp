@@ -17,6 +17,6 @@ void main()
 
 	printf("오늘 날씨 안좋음");
 
-	printf("내일 날씨 안좋음");
-	printf("어제 날씨 안좋음");
+	//브랜치로 되돌리기
+	printf("reset과는 달리 내용이 사라지지 않음");
 }
